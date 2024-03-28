@@ -1,4 +1,4 @@
-API_ID = 24764967 # api id
+API_ID = "24764967" # api id
 API_HASH = "48a5c7881e9fd7ff8981538602144672"  # api hash
 
 BOT_TOKEN = "7035902656:AAE2-es67OzM3QkwNomaTaWksHbZu-LT9y8"  # bot token
